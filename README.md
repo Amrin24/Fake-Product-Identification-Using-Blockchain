@@ -26,6 +26,4 @@
 
 
 
-![Amrin ShaikhCertificate (1)](https://github.com/user-attachments/assets/4f63b5a4-bd50-4c53-a6a1-c7df7c8c5748)
-
-
+https://docs.google.com/document/d/1X8SNWgg0iPy8NbnR2jDvB2Hf-qOHSOi81abOeMB1zOY/edit?usp=drive_link
