@@ -26,4 +26,6 @@
 
 
 
-https://docs.google.com/document/d/1X8SNWgg0iPy8NbnR2jDvB2Hf-qOHSOi81abOeMB1zOY/edit?usp=drive_link
+## Presented a paper titled "Fraud Product Spotting System Using Blockchain Technology" at the National
+ Conference on Emerging Trends in Engineering & Management
+https://drive.google.com/file/d/17Wvq9HzZ2x3Fk1trwULLnykWkd7DdfPW/view?usp=sharing
